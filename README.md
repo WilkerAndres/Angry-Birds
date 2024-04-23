@@ -1,9 +1,4 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/evanderchristiandumalang/
-
-# 2D Angry Birds Game
+# Unity Angry Birds Game
 
 ## Features
 
@@ -12,12 +7,6 @@
 3. UI (Win and Lose Condition and Play Again)
 4. Sound effect
 
-### Built With
-
-* [![Unity][Unity.com]][Unity-url]
-
-[Unity.com]: https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black
-[Unity-url]: https://unity.com/
 
 ## Documentation
 
@@ -37,13 +26,10 @@
 
 - Add this project folder on Unity and run
 
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request.
-
 ## License
 
-All the code available under the MIT licenses. See [LICENSE](LICENSE).
+Created by Jorge.P.
 
+## Link
+
+https://github.com/JorgePerezGarcia/Angry-Birds
