@@ -28,8 +28,8 @@
 
 ## License
 
-Created by Wilker.
+Created by Jorge.P.
 
 ## Link
 
-https://github.com/WilkerAndres/Angry-Birds
+https://github.com/JorgePerezGarcia/Angry-Birds
